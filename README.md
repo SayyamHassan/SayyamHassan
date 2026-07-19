@@ -62,7 +62,12 @@ Supported internal IT projects by assisting cross-functional teams with technica
 Zohan Property Care — Enterprise Property Management Platform
 Contributed as a developer on a multi-portal real estate management system, working on backend APIs, database architecture, and frontend integration. Contributed code via feature branches, with commits reviewed and merged into the main codebase.
 
-PortalDescriptionLink🌐 Main WebsitePublic-facing marketing sitezohanpropertycare.com🏢 Company PortalProperty configuration & management dashboardcompany.zohanpropertycare.com🧑‍💼 Landlord PortalLandlord-facing property asset managementlandlord.zohanpropertycare.com🔐 Back OfficeInternal operations portalbo.zohanpropertycare.com
+| Portal | Description | Link |
+|---|---|---|
+| 🌐 Main Website | Public-facing marketing site | [zohanpropertycare.com](https://www.zohanpropertycare.com/) |
+| 🏢 Company Portal | Property configuration & management dashboard | [company.zohanpropertycare.com](https://company.zohanpropertycare.com/) |
+| 🧑‍💼 Landlord Portal | Landlord-facing property asset management | [landlord.zohanpropertycare.com](https://landlord.zohanpropertycare.com/) |
+| 🔐 Back Office | Internal operations portal | [bo.zohanpropertycare.com](https://bo.zohanpropertycare.com/) |
 
 
 Note: Company, Landlord, and Back Office portals require authorized login access.
