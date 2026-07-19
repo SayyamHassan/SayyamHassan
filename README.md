@@ -71,6 +71,7 @@ Contributed as a developer on a multi-portal real estate management system, work
 
 
 Note: Company, Landlord, and Back Office portals require authorized login access.
+
 🛠️ Tech Stack
 
 Languages
