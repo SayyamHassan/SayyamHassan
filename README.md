@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sayyam Hassan</h1>
-<h3 align="center"Full Stack Developer | AI Engineer | Computer Vision Enthusiast</h3>
+<h3 align="center">Full Stack Developer | AI Engineer | Computer Vision Enthusiast</h3>
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EAADC&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+NestJS+%7C+Angular;Building+Scalable+Backend+Systems;AI+%26+Computer+Vision+Applications;FastAPI+%7C+TensorFlow+%7C+MediaPipe;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EAADC&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+AI+Engineer;Computer+Vision+Enthusiast;NestJS+%7C+Angular+%7C+React;FastAPI+%7C+TensorFlow+%7C+MediaPipe;Building+Scalable+AI-Powered+Applications" />
 </p>
 
 <p align="center">
