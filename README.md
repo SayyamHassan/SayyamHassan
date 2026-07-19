@@ -57,6 +57,15 @@ Delivered functional Android app features by contributing to UI design, coding, 
 Reduced crash reports by identifying and resolving bugs during pre-deployment testing phases
 Supported internal IT projects by assisting cross-functional teams with technical documentation and task execution
 
+💼 Professional Projects
+
+Zohan Property Care — Enterprise Property Management Platform
+Contributed as a developer on a multi-portal real estate management system, working on backend APIs, database architecture, and frontend integration. Contributed code via feature branches, with commits reviewed and merged into the main codebase.
+
+PortalDescriptionLink🌐 Main WebsitePublic-facing marketing sitezohanpropertycare.com🏢 Company PortalProperty configuration & management dashboardcompany.zohanpropertycare.com🧑‍💼 Landlord PortalLandlord-facing property asset managementlandlord.zohanpropertycare.com🔐 Back OfficeInternal operations portalbo.zohanpropertycare.com
+
+
+Note: Company, Landlord, and Back Office portals require authorized login access.
 🛠️ Tech Stack
 
 Languages
@@ -117,7 +126,28 @@ Tools
   <img src="https://img.shields.io/badge/SQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 ---
+🖐️ Highlighted Project — AI Sign Language Interpreter
 
+A real-time ASL (American Sign Language) recognition system that detects hand gestures via webcam, predicts signs using a trained deep learning model, and converts them into readable English sentences — with live confidence scoring and top-5 prediction ranking.
+
+<p align="center">
+  <img src="assets/asl-idle.png" width="49%" />
+  <img src="assets/asl-detecting.png" width="49%" />
+</p>
+Key features:
+
+
+Real-time hand landmark tracking with MediaPipe
+Live confidence percentage + latency monitoring per frame
+Top-5 prediction ranking for transparency into model output
+Automatic sentence construction from a sequence of detected signs
+Snapshot, mirror, and fullscreen camera modes
+Text-to-speech playback of the constructed sentence
+
+
+Tech stack: Python, TensorFlow, Keras, OpenCV, MediaPipe, FastAPI, Angular
+
+🔗 Backend Repo · Frontend Repo
 ### 🌟 Featured Projects
 
 | Project | Description | Tech |
