@@ -189,7 +189,9 @@ Tech stack: Python, TensorFlow, Keras, OpenCV, MediaPipe, FastAPI, Angular
   <a href="https://github.com/SayyamHassan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="mailto:sayyamhassan82@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-<p align="center">
   <i>Thanks for stopping by! 🚀</i>
 </p>
