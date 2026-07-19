@@ -12,9 +12,8 @@
   <img src="https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan-informational?style=for-the-badge" />
 </p>
 
----
 
-🚀 About Me
+##🚀 About Me
 
 I'm a Full Stack Developer with experience designing and building scalable web applications using NestJS, Node.js, Angular, React, MySQL, and REST APIs.
 
@@ -26,8 +25,8 @@ I'm actively seeking opportunities where I can combine software engineering, AI,
 
 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/sayyam-hassan-44012b2b7/).
 
----
-💼 Work Experience
+
+##💼 Work Experience
 
 Full Stack Developer (Remote) — Zohan Property Care, Dubai, UAE
 Nov 2024 – June 2026
@@ -57,7 +56,7 @@ Delivered functional Android app features by contributing to UI design, coding, 
 Reduced crash reports by identifying and resolving bugs during pre-deployment testing phases
 Supported internal IT projects by assisting cross-functional teams with technical documentation and task execution
 
-💼 Professional Projects
+##💼 Professional Projects
 
 Zohan Property Care — Enterprise Property Management Platform
 Contributed as a developer on a multi-portal real estate management system, working on backend APIs, database architecture, and frontend integration. Contributed code via feature branches, with commits reviewed and merged into the main codebase.
@@ -72,7 +71,7 @@ Contributed as a developer on a multi-portal real estate management system, work
 
 Note: Company, Landlord, and Back Office portals require authorized login access.
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
 Languages
 
@@ -98,7 +97,7 @@ Backend
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/RESTFul_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
@@ -131,8 +130,8 @@ Tools
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
----
-🖐️ Highlighted Project — AI Sign Language Interpreter
+
+##Highlighted Project — AI Sign Language Interpreter
 
 A real-time ASL (American Sign Language) recognition system that detects hand gestures via webcam, predicts signs using a trained deep learning model, and converts them into readable English sentences — with live confidence scoring and top-5 prediction ranking.
 
@@ -153,7 +152,6 @@ Text-to-speech playback of the constructed sentence
 
 Tech stack: Python, TensorFlow, Keras, OpenCV, MediaPipe, FastAPI, Angular
 
-🔗 Backend Repo · Frontend Repo
 ### 🌟 Featured Projects
 
 | Project | Description | Tech |
@@ -178,11 +176,6 @@ Tech stack: Python, TensorFlow, Keras, OpenCV, MediaPipe, FastAPI, Angular
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SayyamHassan&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-<p align="center">
-  <i>Thanks for stopping by! 🚀</i>
-</p>
 
 📬 Connect With Me
 
