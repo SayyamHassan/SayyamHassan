@@ -13,7 +13,7 @@
 </p>
 
 
-<h3🚀 About Me</h3>
+<h3 align="center">🚀 About Me</h3>
 
 I'm a Full Stack Developer with experience designing and building scalable web applications using NestJS, Node.js, Angular, React, MySQL, and REST APIs.
 
