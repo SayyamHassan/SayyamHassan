@@ -131,8 +131,8 @@ Tools
 A real-time ASL (American Sign Language) recognition system that detects hand gestures via webcam, predicts signs using a trained deep learning model, and converts them into readable English sentences — with live confidence scoring and top-5 prediction ranking.
 
 <p align="center">
-  <img src="assets/asl-idle.png" width="49%" />
-  <img src="assets/asl-detecting.png" width="49%" />
+  <img src="asl-idle.png" width="49%" />
+  <img src="asl-detecting.png" width="49%" />
 </p>
 Key features:
 
