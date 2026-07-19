@@ -32,7 +32,7 @@ I'm actively seeking opportunities where I can combine **software engineering, A
 💼 Work Experience
 
 Full Stack Developer (Remote) — Zohan Property Care, Dubai, UAE
-Nov 2024 – Present
+Nov 2024 – June 2026
 
 
 Improved API responsiveness by designing and optimizing RESTful APIs in NestJS and TypeScript for a production real estate platform serving real users
