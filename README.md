@@ -26,7 +26,7 @@ I'm actively seeking opportunities where I can combine software engineering, AI,
 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/sayyam-hassan-44012b2b7/).
 
 
-##💼 Work Experience
+<h3 align="center">💼 Work Experience</h3>
 
 Full Stack Developer (Remote) — Zohan Property Care, Dubai, UAE
 Nov 2024 – June 2026
@@ -56,7 +56,7 @@ Delivered functional Android app features by contributing to UI design, coding, 
 Reduced crash reports by identifying and resolving bugs during pre-deployment testing phases
 Supported internal IT projects by assisting cross-functional teams with technical documentation and task execution
 
-##💼 Professional Projects
+<h3 align="center">💼 Professional Projects</h3>
 
 Zohan Property Care — Enterprise Property Management Platform
 Contributed as a developer on a multi-portal real estate management system, working on backend APIs, database architecture, and frontend integration. Contributed code via feature branches, with commits reviewed and merged into the main codebase.
@@ -71,7 +71,7 @@ Contributed as a developer on a multi-portal real estate management system, work
 
 Note: Company, Landlord, and Back Office portals require authorized login access.
 
-##🛠️ Tech Stack
+<h3 align="center">🛠️ Tech Stack</h3>
 
 Languages
 
@@ -131,7 +131,7 @@ Tools
   <img src="https://img.shields.io/badge/SQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-##Highlighted Project — AI Sign Language Interpreter
+<h3 align="center">🖐️ Highlighted Project — AI Sign Language Interpreter</h3>
 
 A real-time ASL (American Sign Language) recognition system that detects hand gestures via webcam, predicts signs using a trained deep learning model, and converts them into readable English sentences — with live confidence scoring and top-5 prediction ranking.
 
@@ -152,7 +152,7 @@ Text-to-speech playback of the constructed sentence
 
 Tech stack: Python, TensorFlow, Keras, OpenCV, MediaPipe, FastAPI, Angular
 
-### 🌟 Featured Projects
+<h3 align="center"> 🌟 Featured Projects</h3>
 
 | Project | Description | Tech |
 |---|---|---|
@@ -165,7 +165,7 @@ Tech stack: Python, TensorFlow, Keras, OpenCV, MediaPipe, FastAPI, Angular
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3> 
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=SayyamHassan&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -177,7 +177,7 @@ Tech stack: Python, TensorFlow, Keras, OpenCV, MediaPipe, FastAPI, Angular
 </p>
 
 
-📬 Connect With Me
+<h3 align="center">📬 Connect With Me</h3>
 
 <p align="center">
   <a href="https://sayyamhassan.netlify.app/#home" target="_blank">
