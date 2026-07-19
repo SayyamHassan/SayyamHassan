@@ -14,17 +14,15 @@
 
 ---
 
-### 🚀 About Me
+🚀 About Me
 
-## 🚀 About Me
+I'm a Full Stack Developer with experience designing and building scalable web applications using NestJS, Node.js, Angular, React, MySQL, and REST APIs.
 
-I'm a **Full Stack Developer** with experience designing and building scalable web applications using **NestJS, Node.js, Angular, React, MySQL, and REST APIs**.
+Most recently, I worked on enterprise property management solutions, developing backend APIs, database architecture, authentication systems, and modern frontend interfaces.
 
-Currently, I work on enterprise property management solutions where I develop backend APIs, database architecture, authentication systems, and modern frontend interfaces.
+Alongside full-stack development, I'm passionate about Artificial Intelligence and Computer Vision. My final year project — an AI-powered Real-Time Sign Language Interpreter — integrates TensorFlow, MediaPipe, OpenCV, FastAPI, and Angular to perform real-time gesture recognition.
 
-Alongside full-stack development, I'm passionate about **Artificial Intelligence and Computer Vision**. My Final Year Project—an **AI-powered Real-Time Sign Language Interpreter**—integrates **TensorFlow, MediaPipe, OpenCV, FastAPI, and Angular** to perform real-time gesture recognition.
-
-I'm actively seeking opportunities where I can combine **software engineering, AI, and computer vision** to build intelligent, production-ready applications.
+I'm actively seeking opportunities where I can combine software engineering, AI, and computer vision to build intelligent, production-ready applications.
 
 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/sayyam-hassan-44012b2b7/).
 
