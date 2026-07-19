@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sayyam Hassan</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast</h3>
+<h3 align="center"Full Stack Developer | AI Engineer | Computer Vision Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EAADC&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+%7C+Node.js+%2B+NestJS;Exploring+AI+%2F+ML+Powered+Applications;React.js+%7C+Angular+%7C+FastAPI;Turning+ideas+into+production-ready+systems" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EAADC&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+NestJS+%7C+Angular;Building+Scalable+Backend+Systems;AI+%26+Computer+Vision+Applications;FastAPI+%7C+TensorFlow+%7C+MediaPipe;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
@@ -16,44 +16,108 @@
 
 ### 🚀 About Me
 
-I'm a **Full Stack Developer** with hands-on experience building scalable backend systems and modern, responsive web applications using **Node.js**, **NestJS**, **React**, and **Angular**. My final year project — an **AI-powered Sign Language Interpreter** — gave me practical experience integrating AI/ML models into real-world applications, and sparked a deeper interest in AI-driven development.
+## 🚀 About Me
 
-I'm currently looking to grow further in **AI-focused engineering roles**, combining my full-stack foundation with applied AI/ML work. I care about writing clean, maintainable code and building systems that scale well from prototype to production.
+I'm a **Full Stack Developer** with experience designing and building scalable web applications using **NestJS, Node.js, Angular, React, MySQL, and REST APIs**.
+
+Currently, I work on enterprise property management solutions where I develop backend APIs, database architecture, authentication systems, and modern frontend interfaces.
+
+Alongside full-stack development, I'm passionate about **Artificial Intelligence and Computer Vision**. My Final Year Project—an **AI-powered Real-Time Sign Language Interpreter**—integrates **TensorFlow, MediaPipe, OpenCV, FastAPI, and Angular** to perform real-time gesture recognition.
+
+I'm actively seeking opportunities where I can combine **software engineering, AI, and computer vision** to build intelligent, production-ready applications.
 
 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/sayyam-hassan-44012b2b7/).
 
 ---
+💼 Work Experience
 
-### 🛠️ Tech Stack
+Full Stack Developer (Remote) — Zohan Property Care, Dubai, UAE
+Nov 2024 – Present
 
-**Languages**
+
+Improved API responsiveness by designing and optimizing RESTful APIs in NestJS and TypeScript for a production real estate platform serving real users
+Strengthened database query performance by architecting normalized MySQL schemas and writing optimized queries for property listing and search functionality
+Enhanced frontend load speed by integrating an Angular client with backend microservices, implementing lazy loading and reusable component architecture
+Reduced deployment issues by introducing Git-based version control workflows and structured code review practices across the engineering team
+Supported stable core booking features by resolving recurring production issues using Postman for API testing and validation
+
+
+Web Developer Intern — Bitsol Technologies (Pvt. Ltd.), Islamabad, Pakistan
+Aug 2024 – Oct 2024
+
+
+Shipped reusable UI components by building responsive interfaces in React.js, HTML, and CSS, improving page load performance
+Resolved frontend and backend bugs by debugging Node.js services and collaborating with senior developers using Git version control
+Improved new-hire onboarding by documenting API endpoints and internal workflows for future interns
+
+
+Android Developer Intern — Innovagic Technologies, Rawalpindi, Pakistan
+Aug 2023 – Jan 2024
+
+
+Delivered functional Android app features by contributing to UI design, coding, and testing across the full development lifecycle
+Reduced crash reports by identifying and resolving bugs during pre-deployment testing phases
+Supported internal IT projects by assisting cross-functional teams with technical documentation and task execution
+
+🛠️ Tech Stack
+
+Languages
+
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
+Frontend
 
-**Backend**
+<p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+Backend
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
+AI & Computer Vision
 
-**Frontend**
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Vision-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CNN-FF4500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Transformer-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gesture_Recognition-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine_Learning-00A86B?style=for-the-badge" />
 </p>
+Databases
 
-**Database & Tools**
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
+Tools
 
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 ---
 
 ### 🌟 Featured Projects
@@ -82,6 +146,23 @@ I'm currently looking to grow further in **AI-focused engineering roles**, combi
 
 ---
 
+<p align="center">
+  <i>Thanks for stopping by! 🚀</i>
+</p>
+
+📬 Connect With Me
+
+<p align="center">
+  <a href="https://sayyamhassan.netlify.app/#home" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2EAADC?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sayyam-hassan-44012b2b7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/SayyamHassan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 <p align="center">
   <i>Thanks for stopping by! 🚀</i>
 </p>
